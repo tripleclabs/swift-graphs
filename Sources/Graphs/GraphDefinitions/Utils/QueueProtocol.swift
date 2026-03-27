@@ -1,4 +1,5 @@
 import Collections
+import HeapModule
 
 /// A protocol for queue-like data structures.
 public protocol QueueProtocol<Element> {
