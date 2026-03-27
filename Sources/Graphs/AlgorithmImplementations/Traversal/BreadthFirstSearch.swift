@@ -1,4 +1,5 @@
 import Collections
+import DequeModule
 
 /// Breadth-First Search algorithm for traversing graphs.
 ///
