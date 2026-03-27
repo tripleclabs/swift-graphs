@@ -1,4 +1,5 @@
 import Collections
+import OrderedCollections
 
 extension VertexStorage {
     /// Creates an ordered vertex storage instance.

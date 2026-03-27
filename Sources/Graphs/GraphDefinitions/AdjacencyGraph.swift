@@ -1,4 +1,5 @@
 import Collections
+import OrderedCollections
 
 /// A protocol for graphs that provide direct access to adjacent vertices.
 ///
