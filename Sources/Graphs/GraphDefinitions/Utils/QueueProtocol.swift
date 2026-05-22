@@ -1,4 +1,3 @@
-import Collections
 import HeapModule
 import DequeModule
 
