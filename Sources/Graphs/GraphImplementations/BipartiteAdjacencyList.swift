@@ -1,5 +1,8 @@
 #if !GRAPHS_USES_TRAITS || GRAPHS_BIPARTITE_GRAPH
 import Collections
+// `import Collections` re-exports OrderedSet the type, but not its Sequence
+// conformance — using it here needs the defining module imported directly.
+import OrderedCollections
 
 /// An adjacency list implementation of a bipartite graph.
 ///
